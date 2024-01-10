@@ -395,7 +395,7 @@ a{
   background-color: #FEF9F6;
 }
 
-/* Number text (1/3 etc) */
+/* Number text  */
 .numbertext {
   color: rgb(188, 158, 27) 27), 0, 0);
   padding: 15px 20px;
@@ -435,6 +435,6 @@ a{
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #333; /* Choose your preferred background color */
-  color: #fff; /* Choose your preferred text color */
+  background-color: #333; 
+  color: #fff;
 }
